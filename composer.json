@@ -31,7 +31,7 @@
     "name": "pear/mail_mimedecode",
     "support": {
         "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Mail_mimeDecode",
-        "source": "https://github.com/pear/Mail_mimeDecode"
+        "source": "https://github.com/roojs/mail_mimeDecode"
     },
     "type": "library",
     "require": {
