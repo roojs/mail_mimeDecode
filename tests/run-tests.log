@@ -1,0 +1,6 @@
+TOTAL TIME: 00:00
+0 PASSED TESTS
+0 SKIPPED TESTS
+2 FAILED TESTS:
+/home/alan/git/Mail_mimeDecode/trunk/tests/parse_header_value.phpt
+/home/alan/git/Mail_mimeDecode/trunk/tests/semicolon_content_type_bug1724.phpt

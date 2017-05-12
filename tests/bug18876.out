@@ -1,0 +1,13 @@
+stdClass Object
+(
+    [headers] => Array
+        (
+            [subject] => Привет!
+            [from] => Александр Волков <email@gmail.com>
+        )
+
+    [ctype_primary] => text
+    [ctype_secondary] => plain
+    [body] => Hello
+
+)

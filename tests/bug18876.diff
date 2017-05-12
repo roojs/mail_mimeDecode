@@ -1,0 +1,14 @@
+001- test1;semicolon
+001+ stdClass Object
+002+ (
+003+     [headers] => Array
+004+         (
+005+             [subject] => Привет!
+006+             [from] => Александр Волков <email@gmail.com>
+007+         )
+008+ 
+009+     [ctype_primary] => text
+010+     [ctype_secondary] => plain
+011+     [body] => Hello
+012+ 
+013+ )
